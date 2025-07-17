@@ -14,6 +14,7 @@ function App() {
       <button onClick={toggleDarkMode} className="toggle-button">
         Cambiar a {darkMode ? 'Claro' : 'Oscuro'}
       </button>
+      <h1>Esto es para el CD AYUDAAAA</h1>
     </div>
   );
 }
