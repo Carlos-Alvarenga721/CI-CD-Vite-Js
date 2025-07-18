@@ -14,8 +14,7 @@ function App() {
       <button onClick={toggleDarkMode} className="toggle-button">
         Cambiar a {darkMode ? 'Claro' : 'Oscuro'}
       </button>
-      <h1>Esto es para el CD AYUDAAAA</h1>
-      <h2>Esto es un subtítulo para probar</h2>
+      <h1>Ejemplo final para probar CI/CD</h1>
     </div>
   );
 }
