@@ -13,7 +13,7 @@ Este proyecto es una demostración práctica de los conceptos de CI/CD (Integrac
 ## Instrucciones de uso
 
 1. Clona el repositorio:  
-   `git clone https://github.com/tu-usuario/tu-repo.git`
+   `git clone https://github.com/Carlos-Alvarenga721/CI-CD-Vite-Js.git`
 2. Realiza cambios y súbelos a la rama principal.
 3. Verifica la ejecución automática del pipeline en la pestaña de acciones del repositorio.
 
