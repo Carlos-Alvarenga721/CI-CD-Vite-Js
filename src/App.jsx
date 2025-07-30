@@ -15,6 +15,7 @@ function App() {
         Cambiar a {darkMode ? 'Claro' : 'Oscuro'}
       </button>
       <h1>Ejemplo final para probar CI/CD</h1>
+      <h2> xdxd
     </div>
   );
 }
