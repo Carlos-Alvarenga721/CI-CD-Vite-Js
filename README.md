@@ -1,12 +1,19 @@
-# React + Vite
+# CI/CD: Integración y Entrega Continua
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Este proyecto es una demostración práctica de los conceptos de CI/CD (Integración Continua y Entrega Continua), fundamentales para el desarrollo de software moderno. El objetivo es automatizar la construcción, prueba y despliegue de aplicaciones, mejorando la calidad del código y acelerando la entrega de nuevas funcionalidades.
 
-Currently, two official plugins are available:
+## Beneficios de CI/CD
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Detección temprana de errores.
+- Reducción del tiempo entre el desarrollo y el despliegue.
+- Automatización de tareas repetitivas.
+- Mayor confianza en la calidad del software.
 
-## Expanding the ESLint configuration
+## Instrucciones de uso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clona el repositorio:  
+   `git clone https://github.com/Carlos-Alvarenga721/CI-CD-Vite-Js.git`
+2. Realiza cambios y súbelos a la rama principal.
+3. Verifica la ejecución automática del pipeline en la pestaña de acciones del repositorio.
+
