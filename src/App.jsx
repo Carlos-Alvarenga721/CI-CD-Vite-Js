@@ -15,7 +15,7 @@ function App() {
         Cambiar a {darkMode ? 'Claro' : 'Oscuro'}
       </button>
       <h1>Ejemplo final para probar CI/CD</h1>
-      <h2> xdxd
+      <h2> Esto es un ejemplo de una aplicación React que cambia entre modo claro y oscuro.</h2>
     </div>
   );
 }
